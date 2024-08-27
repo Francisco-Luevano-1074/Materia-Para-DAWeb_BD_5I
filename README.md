@@ -15,3 +15,5 @@ Tenemos link de referencia más documentos Agosto 2024 .
 - https://www.w3schools.com/
 - Python
 -  https://www.w3schools.com/python/default.asp
+-  Programación en línea
+-  https://coddy.tech/
