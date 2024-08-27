@@ -17,3 +17,5 @@ Tenemos link de referencia más documentos Agosto 2024 .
 -  https://www.w3schools.com/python/default.asp
 -  Programación en línea
 -  https://coddy.tech/
+-  ![image](https://github.com/user-attachments/assets/0cee82ab-68e5-4194-951d-eab21185ac1c)
+
